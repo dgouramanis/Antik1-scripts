@@ -5,6 +5,4 @@ I'm sharing these scripts for example/reference. They were written for my custom
 
 The scripts collect information from the user via command line, and output/execute G code using BeagleG. The result is a "conversational CNC" machine.
 
-As people join the project it may evolve into a software.
-
 https://youtu.be/vZw_jr8YovY
